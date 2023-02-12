@@ -9,6 +9,7 @@ This repository contains the implementation of machine learning models and creat
 * Streamlit helps to build and share data apps in a faster wat.
 * Streamlit turns data scripts into shareable web apps in minutes.
 * All in pure Python. No front‑end experience required.
+To know more amazing function of streamlit, you can follow their cheatsheeet(https://docs.streamlit.io/library/cheatsheet)
 
 ---
 
