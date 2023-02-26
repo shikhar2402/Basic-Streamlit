@@ -1,6 +1,6 @@
 # Deployment of machine learning models using streamlit
 
-![streamlit](src/streamlit_logo.jpeg)
+!(src/streamlit_logo.jpeg)
 
 ---
 
